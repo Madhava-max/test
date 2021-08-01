@@ -1,0 +1,13 @@
+C:\Users\kotha\Desktop\fellowship\test\hungry\bin\Debug\netcoreapp3.1\hungry.exe
+C:\Users\kotha\Desktop\fellowship\test\hungry\bin\Debug\netcoreapp3.1\hungry.deps.json
+C:\Users\kotha\Desktop\fellowship\test\hungry\bin\Debug\netcoreapp3.1\hungry.runtimeconfig.json
+C:\Users\kotha\Desktop\fellowship\test\hungry\bin\Debug\netcoreapp3.1\hungry.runtimeconfig.dev.json
+C:\Users\kotha\Desktop\fellowship\test\hungry\bin\Debug\netcoreapp3.1\hungry.dll
+C:\Users\kotha\Desktop\fellowship\test\hungry\bin\Debug\netcoreapp3.1\hungry.pdb
+C:\Users\kotha\Desktop\fellowship\test\hungry\obj\Debug\netcoreapp3.1\hungry.csproj.AssemblyReference.cache
+C:\Users\kotha\Desktop\fellowship\test\hungry\obj\Debug\netcoreapp3.1\hungry.AssemblyInfoInputs.cache
+C:\Users\kotha\Desktop\fellowship\test\hungry\obj\Debug\netcoreapp3.1\hungry.AssemblyInfo.cs
+C:\Users\kotha\Desktop\fellowship\test\hungry\obj\Debug\netcoreapp3.1\hungry.csproj.CoreCompileInputs.cache
+C:\Users\kotha\Desktop\fellowship\test\hungry\obj\Debug\netcoreapp3.1\hungry.dll
+C:\Users\kotha\Desktop\fellowship\test\hungry\obj\Debug\netcoreapp3.1\hungry.pdb
+C:\Users\kotha\Desktop\fellowship\test\hungry\obj\Debug\netcoreapp3.1\hungry.genruntimeconfig.cache
